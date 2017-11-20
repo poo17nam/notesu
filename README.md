@@ -1,4 +1,4 @@
-# Notes App
+# Notesu Application
 
 An application which will be used for creating, storing and fetching notes.
 
